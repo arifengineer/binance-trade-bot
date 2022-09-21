@@ -1,2 +1,2 @@
 web: python app.py
-web: python -m binance_trade_bot runserver 0.0.0.0:5000
+web: voila --port=$PORT --no-browser app.ipynb
