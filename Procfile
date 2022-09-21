@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser app.ipynb
+web: python app.py
