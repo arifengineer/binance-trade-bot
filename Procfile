@@ -1,1 +1,1 @@
-web: python -m binance_trade_bot
+web: voila --port=$PORT --no-browser app.ipynb
