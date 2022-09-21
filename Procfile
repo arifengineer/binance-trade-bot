@@ -1,2 +1,2 @@
 web: python app.py
-web: bundle exec rails server -p $PORT
+web: python manage.py runserver 0.0.0.0:5000
